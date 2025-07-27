@@ -74,7 +74,7 @@ if __name__ == "__main__":
         "uid": "test", # 用户ID
         "nickname": "XeeMan", # 昵称
         "cellphone": "18822228888", # 手机号
-        "avatar": "https://testingcf.jsdelivr.net/gh/macklee6/hahah/c399002482ef17d9a8c5a90fb876776e.gifg", # 头像
+        "avatar": "https://testingcf.jsdelivr.net/gh/macklee6/hahah/c399002482ef17d9a8c5a90fb876776e.gif", # 头像
         "country_code": 86, # 国家代码
         "is_activated": True,
         "db_secrect_key": "test_key", # 数据库密钥
